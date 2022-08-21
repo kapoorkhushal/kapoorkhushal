@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapoorkhushal
-- 👀 I’m interested in Blockchain & Python
-- 🌱 I’m currently learning new innovative technologies
+- 👀 I’m a full stack developer
+- 🌱 Highly engaged in Innovation & Thinking Breakthroughs
 - 📫 Reach me via LinkedIn 
 
 <!---
